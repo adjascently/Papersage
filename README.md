@@ -73,14 +73,4 @@ Special handling ensures accurate parsing of:
 
 
 
----
-
-# 🧩 Contributing
-Contributions, ideas, and bug reports are welcome!  
-Please create an issue or open a pull request.
-
----
-
-# 📜 License
-This project is licensed under the MIT License.
 
