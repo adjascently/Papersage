@@ -71,10 +71,7 @@ Special handling ensures accurate parsing of:
 - Lightning AI and Gemma 3 model documentation
 - ArXiv dataset for Machine Learning and AI research papers
 
----
 
-## 📸 Demo
-*(Add a Streamlit UI screenshot or GIF here)*
 
 ---
 
